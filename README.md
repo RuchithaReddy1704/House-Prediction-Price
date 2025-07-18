@@ -13,7 +13,7 @@ Project Overview
  ------------------------------------------------------------
  How to Run
  1. Clone the repository:
-   git clone https://github.com/yourusername/housing-price-prediction
+   git clone (https://github.com/RuchithaReddy1704/House-Prediction-Price.git)
    cd housing-price-prediction
  2. Run the application:
    python app.py
@@ -25,7 +25,5 @@ Visualizations- Pairplot of key features- Heatmap of correlations- Actual vs Pre
  Future Improvements- Feature engineering and scaling- Hyperparameter tuning- Cross-validation- Web deployment using Streamlit or Flask
  --------------------------------------------------------------
  GitHub Repository
- https://github.com/yourusername/housing-price-prediction
-
- License
- This project is licensed under the MIT License.
+ (https://github.com/RuchithaReddy1704/House-Prediction-Price.git)
+ --------------------------------------------------------------
